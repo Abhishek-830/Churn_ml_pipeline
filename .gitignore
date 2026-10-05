@@ -1,0 +1,12 @@
+```text
+venv/
+__pycache__/
+*.pyc
+
+artifacts/
+logs/
+
+.env
+.vscode/
+.idea/
+```
